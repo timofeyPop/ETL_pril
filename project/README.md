@@ -5,9 +5,6 @@ ETL-приложение для расчета топ-3 магазинов по 
 
 
 ```bash
-# 1. Клонируйте репозиторий
-git clone <repository-url>
-cd etl_project
 
-# 2. Запустите приложение
+#1. Запустите приложение
 docker-compose up --build
