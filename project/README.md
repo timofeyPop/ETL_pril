@@ -8,3 +8,8 @@ ETL-приложение для расчета топ-3 магазинов по 
 
 #1. Запустите приложение
 docker-compose up --build
+#2. Перейдите поссылке
+http://localhost:9000
+#3 Введите логин = minioadmin и пароль = minioadmin
+#4Перейдите в бакет output-data
+#5Скачайте result.parquet
